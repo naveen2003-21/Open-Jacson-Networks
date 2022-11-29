@@ -22,8 +22,8 @@ Visual components and Python
 
 ## Program
 ```
-Name : SV ROHIHTKUMAR
-Reg No: 212221230084
+Name : A Naveen Kumar
+Reg No: 212221240032
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
